@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["6285784659619@s.whatsapp.net"],
+  "ownerName": ["Christian ID"],
+  "botName": "Hitomi Store",
+  "buttonName": "Youtube Official",
+  "buttonLink": "https://youtube.com/c/ChristianID99",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/chris.tianid",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
